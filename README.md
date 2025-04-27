@@ -20,6 +20,7 @@ Microsoft Excel (for data source)
 DAX (Data Analysis Expressions)
 
 📸 Report Preview
+![Hr_analytics](https://github.com/user-attachments/assets/267fe458-2c09-420a-bce4-e35b476c99fd)
 
 
 🚀 How to View
